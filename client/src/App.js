@@ -10,7 +10,7 @@ import { TaskProvider } from './contexts/TaskContext';
 // Components
 import Navbar from './components/Layout/Navbar';
 import Sidebar from './components/Layout/Sidebar';
-import ProtectedRoute from './components/Auth/ProtectedRoute';
+// import ProtectedRoute from './components/Auth/ProtectedRoute';
 
 // Pages
 import Login from './pages/Auth/Login';
